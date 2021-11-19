@@ -35,7 +35,7 @@ var transporter=nodemailer.createTransport({
     service:'gmail',
     auth:{
         user:"tensuabita0@gmail.com",
-        pass:"tensu@208531"
+        pass:""
     }
 
 })
